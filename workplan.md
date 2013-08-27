@@ -1,6 +1,9 @@
 ## Distributions (require, promise):
 
 1. [ ] dojo-dojo
+  * [x] code
+  * [x] [jsFiddle](http://jsfiddle.net/ilinkuo/KJaX3/8/)
+  * [ ] tests
 2. [ ] requireJS-jQuery
 3. [ ] curl-cujo
 4. [ ] requireJS-cujo
